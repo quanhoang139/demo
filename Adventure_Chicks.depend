@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1652682845 source:e:\adventure_chicks\button.cpp
+	"Button.h"
+
+1652682819 e:\adventure_chicks\button.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+
+1652682721 source:e:\adventure_chicks\sound.cpp
+	"Sound.h"
+	<iostream>
+
+1652408043 e:\adventure_chicks\sound.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1651927391 source:e:\adventure_chicks\adventurechicks.cpp
+	"Window.h"
+	<time.h>
+
+1652367164 e:\adventure_chicks\window.h
+	<SDL.h>
+	<string>
+	"Core.h"
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1652755854 e:\adventure_chicks\core.h
+	"Texture.h"
+	<random>
+	<queue>
+	"Button.h"
+	"Sound.h"
+	"Time.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+
+1652758385 e:\adventure_chicks\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+
+1652751586 source:e:\adventure_chicks\window.cpp
+	"Window.h"
+	<iostream>
+	<time.h>
+	<random>
+
+1652758385 source:e:\adventure_chicks\texture.cpp
+	"Texture.h"
+	<SDL_mixer.h>
+	<iostream>
+
+1652758070 source:e:\adventure_chicks\core.cpp
+	"Core.h"
+
+1651847371 e:\adventure_chicks\time.h
+	<SDL.h>
+
+1652751458 source:e:\adventure_chicks\time.cpp
+	"Time.h"
+
